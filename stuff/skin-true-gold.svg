@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="42" height="42">
+  <!-- Coin outer rim -->
+  <circle cx="24" cy="24" r="21" fill="#eab308" stroke="#050505" stroke-width="2.5" />
+  <!-- Coin inner recessed bed -->
+  <circle cx="24" cy="24" r="16" fill="#f59e0b" stroke="#ca8a04" stroke-width="1.8" />
+  <!-- Shine highlight -->
+  <path d="M38 14 C41 18 41 25 38 29 C37 25 37 18 34 14 Z" fill="#ffffff" opacity="0.6" />
+  <!-- Cute smiley face -->
+  <circle cx="19" cy="21" r="3" fill="#d97706" />
+  <circle cx="29" cy="21" r="3" fill="#d97706" />
+  <path d="M19 26 Q24 32 29 26 Z" fill="#d97706" />
+</svg>

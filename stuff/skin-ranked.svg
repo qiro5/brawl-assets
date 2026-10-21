@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="42" height="42">
+  <!-- Ranked Lanyard Pass -->
+  <!-- Lanyard Ribbon -->
+  <path d="M38 4 C44 8 46 16 41 21 L35 16 C37 13 36 9 32 7 Z" fill="#9333ea" stroke="#050505" stroke-width="2" />
+  <!-- Clip -->
+  <rect x="31" y="11" width="9" height="7" rx="2" fill="#06b6d4" stroke="#050505" stroke-width="1.8" transform="rotate(35 35 14)" />
+  <!-- Card body -->
+  <rect x="10" y="14" width="25" height="31" rx="4.5" fill="#a3e635" stroke="#050505" stroke-width="2.8" transform="rotate(-28 22 29)" />
+  <!-- Card slot -->
+  <rect x="18" y="16" width="9" height="3" rx="1.5" fill="#050505" transform="rotate(-28 22 17)" />
+  <!-- Skull emblem on card -->
+  <circle cx="24" cy="30" r="7.5" fill="#050505" />
+  <circle cx="22" cy="29" r="1.8" fill="#a3e635" />
+  <circle cx="26" cy="28" r="1.8" fill="#a3e635" />
+  <rect x="22" y="33" width="4.5" height="3" rx="1" fill="#050505" />
+</svg>

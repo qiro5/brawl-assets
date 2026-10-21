@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="42" height="42">
+  <!-- Open Padlock for Skins Unlocked -->
+  <!-- Burst rays -->
+  <path d="M28 8 L33 4 M33 10 L40 8 M35 15 L42 16" stroke="#38bdf8" stroke-width="3.5" stroke-linecap="round" />
+  <path d="M28 8 L33 4 M33 10 L40 8 M35 15 L42 16" stroke="#ffffff" stroke-width="2" stroke-linecap="round" />
+  <!-- Shackle (open) -->
+  <path d="M15 22 V14 C15 8.5 19.5 5 25 5 C29 5 32 7.5 33.5 10" fill="none" stroke="#0f172a" stroke-width="7" stroke-linecap="round" />
+  <path d="M15 22 V14 C15 8.5 19.5 5 25 5 C29 5 32 7.5 33.5 10" fill="none" stroke="#ffffff" stroke-width="4.5" stroke-linecap="round" />
+  <!-- Lock Body -->
+  <rect x="8" y="19" width="30" height="25" rx="7" fill="#ffffff" stroke="#0f172a" stroke-width="3" />
+  <!-- Body shadow/cyan accent -->
+  <path d="M11 38 C11 41 14 41 18 41 L31 41 C35 41 35 38 35 38 L35 36 C35 36 29 38 23 38 C17 38 11 36 11 36 Z" fill="#38bdf8" />
+  <!-- Keyhole -->
+  <circle cx="23" cy="28" r="3.5" fill="#0f172a" />
+  <polygon points="21.5,28 24.5,28 25.5,35 20.5,35" fill="#0f172a" />
+</svg>

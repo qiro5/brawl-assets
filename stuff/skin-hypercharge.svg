@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="42" height="42">
+  
+  <!-- Hypercharge flame badge -->
+  <path d="M24 3 C34 3 45 15 45 28 C45 39 36 46 24 46 C12 46 3 39 3 28 C3 16 14 3 24 3 Z" fill="#ec008c" stroke="#050505" stroke-width="3" />
+  <!-- Flame notch/horns at top -->
+  <path d="M15 7 Q24 16 33 7 Q29 2 24 5 Q19 2 15 7 Z" fill="#050505" />
+  <circle cx="34" cy="15" r="3" fill="#a855f7" />
+  <ellipse cx="15" cy="17" rx="3.5" ry="2" fill="#ffffff" opacity="0.6" transform="rotate(-40 15 17)" />
+
+  <!-- Hanger outline -->
+  <g transform="translate(0, 1)">
+    <path d="M23 13 C23 11 24.5 9.5 26.5 9.5 C28.5 9.5 29.5 11 29 12.5 C28.5 14 26 15 25 17 L12 28 C10.5 29.5 11.5 31.5 13.5 31.5 L34.5 31.5 C36.5 31.5 37.5 29.5 36 28 L23 17" 
+          fill="none" stroke="#050505" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M23 13 C23 11 24.5 9.5 26.5 9.5 C28.5 9.5 29.5 11 29 12.5 C28.5 14 26 15 25 17 L12 28 C10.5 29.5 11.5 31.5 13.5 31.5 L34.5 31.5 C36.5 31.5 37.5 29.5 36 28 L23 17" 
+          fill="none" stroke="#ffffff" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round" />
+  </g>
+</svg>

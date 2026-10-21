@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="42" height="42">
+  <!-- BS Gem -->
+  <defs>
+    <radialGradient id="gemHighlight" cx="35%" cy="35%" r="40%">
+      <stop offset="0%" stop-color="#ecfccb" />
+      <stop offset="100%" stop-color="#84cc16" />
+    </radialGradient>
+  </defs>
+  <!-- Outer border -->
+  <polygon points="24,3 38,9 45,23 38,37 24,45 10,37 3,23 10,9" fill="#064e3b" stroke="#022c22" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Facets -->
+  <polygon points="24,3 38,9 33,18 24,14 15,18 10,9" fill="#84cc16" />
+  <polygon points="38,9 45,23 36,27 33,18" fill="#22c55e" />
+  <polygon points="45,23 38,37 30,34 36,27" fill="#0d9488" />
+  <polygon points="38,37 24,45 24,36 30,34" fill="#0f766e" />
+  <polygon points="24,45 10,37 18,34 24,36" fill="#115e59" />
+  <polygon points="10,37 3,23 12,27 18,34" fill="#059669" />
+  <polygon points="3,23 10,9 15,18 12,27" fill="#4ade80" />
+  <polygon points="10,9 24,3 15,18" fill="#bef264" />
+  <!-- Center table facet -->
+  <polygon points="24,14 33,18 36,27 30,34 18,34 12,27 15,18" fill="#a3e635" stroke="#4ade80" stroke-width="1" />
+  <!-- Highlight shine -->
+  <polygon points="24,14 30,17 26,22 20,20" fill="#f7fee7" opacity="0.75" />
+</svg>
