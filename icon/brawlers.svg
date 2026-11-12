@@ -6,6 +6,9 @@
 <rect x="361" y="127" width="154" height="154" rx="77" fill="#00C714"/>
 <rect width="485" height="270" transform="translate(30 204)" fill="#00C714"/>
 <rect width="327" height="419" transform="translate(109 127)" fill="#00C714"/>
+<rect width="10" height="419" transform="translate(94 127)" fill="#01A45F"/>
+<rect width="10" height="419" transform="translate(440 127)" fill="#01A45F"/>
+<rect width="10" height="419" transform="translate(268 127)" fill="#01A45F"/>
 <path d="M180.36 391.772C200.36 343.372 243.694 351.605 262.86 361.772H284.86C306.86 351.772 324.694 354.272 330.86 356.772C347.027 362.272 376.46 382.972 364.86 421.772C353.26 460.572 300.36 469.938 275.36 469.772C238.694 469.938 168.36 454.572 180.36 391.772Z" fill="black"/>
 <rect x="109" y="209" width="132" height="131" rx="65.5" fill="black"/>
 <rect x="304" y="209" width="132" height="131" rx="65.5" fill="black"/>
